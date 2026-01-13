@@ -1,0 +1,8 @@
+
+{
+  "name": "Visionary AI Designer",
+  "description": "A high-end creative studio that transforms your uploaded images into professional designs using the Gemini 2.5 Flash Image model. Upload photos, sketches, or mood boards to generate stunning UI mockups, logos, social media posts, and artistic concepts in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
