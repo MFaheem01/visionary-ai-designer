@@ -139,7 +139,7 @@ const App: React.FC = () => {
               <div className="bg-indigo-600 p-2 rounded-lg">
                 <Sparkles className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold font-heading tracking-tight text-white">Visionary<span className="text-indigo-400">AI..</span></span>
+              <span className="text-xl font-bold font-heading tracking-tight text-white">Visionary<span className="text-indigo-400">AI.</span></span>
             </div>
             <div className="hidden md:flex items-center gap-6 text-sm font-medium">
               <Link to="/studio" className="hover:text-indigo-400 transition-colors">Studio</Link>
